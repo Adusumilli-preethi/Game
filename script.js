@@ -3,7 +3,7 @@ const gameContainer = document.querySelector('.game-container');
 let flippedCards = [];
 let matchedCards = 0;
 let mismatches = 0;  // Counter for mismatches
-let totalPairs = 11;  // Now we have 9 pairs of cards (18 cards total)
+let totalPairs = 6;  // Now we have 9 pairs of cards (18 cards total)
 
 // Create an array of card values
 let cardValues = [];
